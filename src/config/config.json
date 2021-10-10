@@ -1,0 +1,41 @@
+{
+    "skills": {
+        "Languages": [
+            {
+                "id": "CSS3"
+            },{
+                "id": "HTML5"
+            },{
+                "id":"Node.js"
+            },{
+                "id":"JavaScript"
+            },{
+                "id":"C#"
+            },{
+                "id":"SQL"
+            }
+        ],
+        "Libraries": [
+            {
+                "id": "Bootstrap"
+            },{
+                "id": "Express.js"
+            },{
+                "id":"React.js"
+            }
+        ],
+        "Tools": [
+            {
+                "id": "Eslint"
+            },{
+                "id": "Chrome Dev"
+            },{
+                "id":"Git & Github"
+            },{
+                "id":"VS Code"
+            },{
+                "id":"VS Studio"
+            }
+        ]
+    }
+}

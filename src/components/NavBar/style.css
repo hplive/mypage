@@ -12,7 +12,7 @@
   
   .logo {
     display: flex;
-    max-width: 130px;
+    max-width: 100%;
     height: 100%;
   }
   
@@ -55,7 +55,7 @@
   }
   
   .list-wrapper ul li a:hover {
-    color: #000000;
+    color: #FFFFFF;
     background-color: #dddddd;
   }
   
@@ -96,7 +96,7 @@
   
     .list-wrapper ul li a {
       padding: 5px;
-      color: #000000;
+      color: #ffffff;
     }
   
     .list-wrapper ul li a:hover {

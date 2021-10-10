@@ -6,10 +6,18 @@
 footer {
     width: 100%;
     padding: 10px 0;
+    justify-content: center;
+    text-align: center;
+    background-color: #FFCC00;
   }
   
   footer img {
-    max-width: 60px;
+    max-width: 50px;
+
+  }
+
+  footer a {
+    justify-content: space-between;
   }
   
   footer img:not(:last-child) {

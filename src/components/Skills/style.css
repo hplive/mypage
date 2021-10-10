@@ -1,5 +1,9 @@
 .skills {
     flex-grow: 1;
+    background-color: #121F45;
+    padding: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
   }
   
   .skills h1 {
@@ -29,6 +33,6 @@
   
   @media (min-width: 800px) {
     .content {
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
     }
   }

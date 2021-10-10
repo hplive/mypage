@@ -7,12 +7,23 @@ const About = () => {
         <div className="about">
             <h1>Bio</h1>
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I'm <strong>Helder Pereira</strong>. I like to develop and recently i can enjoy the freedom to develop what i want.
+            <br></br>
+            A long time ago, in a galaxy far far away, I gave up from studying, and I started to work at full time in the retail store.<br></br>
+            After that i've been away from pc's for some while... for so much time. At some point, one retail supervisor chalenge me to make some simple app to clean tables from emails...i did it. After that, the stored manager saw that, and chalenge me to make an app able to manage some PDF's. Challenge acepted. I've builded in java...after that, I converted everything to PHP with a database online and then upgraded with a bunch of new things and functionalities. <br></br>
+            Then someone challenge me if I could make an app for windows phone of a gun fireing...Made it that, and publish it to Windows Phone Store, and some more app's for Windows Phone/Mobile. 
+            
+            Windows Mobile :( ...I realy thouth it was going to be the only mobile operating system at some point in the future...i was so wrong.<br></br>
+            The love for developing was coming...but i couldn't go back to college...not yet. The life wasn't going as i intended...i had to conform. That was going to be my life. Until, the best thing happened meanwhile, and i had so much more time for myself, to invest in me, and to live. Soon i've starded surfing, and surfing every day i went, sometimes even twice a day. And then... something hit me again. I have so much free time, i cant just surf for the rest of my life! i i stink in surf :). I have to go back to college, and clever thouth i had. So i went, and it was the best decision i had in years.<br></br>
+            I've met there the 3 best palls that someone could ask. Giving up will never be an option anymore thanks to them. <br></br>
+            Meanwhile, ii was time to leave my comfort zone and went to find for a job in my studing area. Fotunately, i've found in the same company, so it was so much easier the change.<br></br>
+            I've found a team with an awesome boss, and the mates of those team where also awesome, the best. The team now is dissipating, but the heart of team is for ever.<br></br>
+            Now recently i've finish the f**** graduation and the world is just opening the doors for me.
+            <br></br>
+            <strong>So...lets see what is inside :)</strong>
             </p>
             <br/>
-            <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-            </p>
+           
         </div>
     )
 }
