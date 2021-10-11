@@ -1,5 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import * as Solid from '@fortawesome/fontawesome-free-solid'
+import * as Brands from '@fortawesome/free-brands-svg-icons'
 import './style.css'
 
 const Home = () => {
@@ -7,12 +10,22 @@ const Home = () => {
         <div className="home">
             <div className="title">
                 <h1 className="name">
-                    <p>I'm Helder Pereira</p>
-                    <p>Computer Engineer</p>
+                    <p><FontAwesomeIcon icon={Solid.faTerminal} /> Helder Pereira</p>
                 </h1>
-                <Link to="/about">
+                <h1 className="name">
+                    <p><FontAwesomeIcon icon={Solid.faLaptop} /> Soft. Developer</p>
+                </h1>
+                <h1 className="name">
+                    <p><FontAwesomeIcon icon={Solid.faUniversity} /> Computer Engineer</p>
+                </h1>
+                <h1 className="name">
+                    <p> Turning <FontAwesomeIcon icon={Solid.faCoffee} /> into <FontAwesomeIcon className="spaceIcons" icon={Solid.faCode} /> </p>
+                </h1>
+ 
+  
+                {/* <Link to="/about">
                     <button>More Info</button>
-                </Link>
+                </Link> */}
             </div>
             <div className="person">
                 <img className="profilePicture filtered"
