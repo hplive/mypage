@@ -2,39 +2,38 @@
     "skills": {
         "Languages": [
             {
-                "id": "CSS3"
+                "id": "CSS", "icon":"", "mdi":"mdiLanguageCss3"
             },{
-                "id": "HTML5"
+                "id": "HTML5", "icon":"", "mdi":"mdiLanguageHtml5"
             },{
-                "id":"Node.js"
+                "id":"Node.js", "icon":"", "mdi":"mdiNodejs"
             },{
-                "id":"JavaScript"
+                "id":"JavaScript", "icon":"", "mdi":"mdiLanguageJavascript"
             },{
-                "id":"C#"
+                "id":"C#", "icon":"","mdi":"mdiDotNet"
             },{
-                "id":"SQL"
+                "id":"Java", "icon":"","mdi":"mdiLanguageJava"
+            },{
+                "id":"SQL", "icon":"", "mdi":"mdiDatabase"
             }
         ],
         "Libraries": [
             {
-                "id": "Bootstrap"
-            },{
-                "id": "Express.js"
-            },{
-                "id":"React.js"
+                "id": "Bootstrap", "icon":"","mdi":"mdiBootstrap"
+            },
+            {
+                "id":"React.js","icon":"","mdi":"mdiReact"
             }
         ],
         "Tools": [
             {
-                "id": "Eslint"
+                "id": "Chrome","icon":"","mdi":"mdiGoogleChrome"
             },{
-                "id": "Chrome Dev"
+                "id":"Git & Github","icon":"","mdi":"mdiGit"
             },{
-                "id":"Git & Github"
+                "id":"VS Code","icon":"","mdi":"mdiMicrosoftVisualStudioCode"
             },{
-                "id":"VS Code"
-            },{
-                "id":"VS Studio"
+                "id":"VS Studio","icon":"","mdi":"mdiMicrosoftVisualStudio"
             }
         ]
     }

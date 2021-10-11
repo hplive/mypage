@@ -15,19 +15,19 @@ const Footer = () => {
         <FontAwesomeIcon className="spaceIcons" icon={Brands.faYoutubeSquare} />
       </a>
       <a href="https://www.facebook.com/heldermrpereira" target="_blank">
-      <FontAwesomeIcon className="spaceIcons" icon={Brands.faFacebook} />
+        <FontAwesomeIcon className="spaceIcons" icon={Brands.faFacebook} />
       </a>
       <a
         href="https://www.linkedin.com/in/heldermrpereira/"
         target="_blank"
       >
-         <FontAwesomeIcon className="spaceIcons" icon={Brands.faLinkedin} />
+        <FontAwesomeIcon className="spaceIcons" icon={Brands.faLinkedin} />
       </a>
       <a href="https://twitter.com/_helderpereira_" target="_blank">
-      <FontAwesomeIcon className="spaceIcons" icon={Brands.faTwitter} />
+        <FontAwesomeIcon className="spaceIcons" icon={Brands.faTwitter} />
       </a>
       <a href="https://instagram.com/heldermrpereira" target="_blank">
-      <FontAwesomeIcon className="spaceIcons" icon={Brands.faInstagram} />
+        <FontAwesomeIcon className="spaceIcons" icon={Brands.faInstagram} />
       </a>
     </footer>
   );

@@ -8,12 +8,6 @@ class Skills extends React.Component {
     lang: []
   }
 
-  // read=async ()=>{
-  //   this.setState({lang:data.skills.Languages.map()})
-  //   console.log(this.state.lang)
-  // }
-
-
 
   render() {
     //this.Execute();
@@ -25,7 +19,7 @@ class Skills extends React.Component {
         <div className="content">
           <div>
             <strong>Languages:</strong>
-            <Cardlist props={data.skills.Languages} />
+            <Cardlist props={data.skills.Languages} /> 
           </div>
           <div>
             <strong>Libraries:</strong>
