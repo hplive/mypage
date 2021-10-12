@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./style.scss";
 import Cardlist from '../../AssetsComponents/Card/CardList';
 import data from '../../config/config.json'
 

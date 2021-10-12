@@ -1,0 +1,119 @@
+
+   [ {
+      "id": 1,
+      "title": "Store Reception",
+     "location": "Norteshopping, Matosinhos, Portugal",
+     "description":
+        "Continente Bom dia NorteShoping",
+     "date": "July 2014",
+     "icon": "work"
+    },
+    {
+      "id": 2,
+     "title": "Store Provisioner",
+     "location": "Norteshopping, Matosinhos, Portugal",
+     "description":
+        "Continente Bom dia NorteShoping",
+     "date": "Mars 2015",
+     "icon": "work"
+    },
+    {
+      "id": 3,
+     "title": "Computer Engeneering Degree",
+     "location": "Porto, Portugal",
+     "description":
+        "Instituto Superior em Engenharia Informática",
+     "date": "Sep 2016",
+     "icon": "school"
+    },
+    {
+      "id": 4,
+     "title": "Store Provisioner",
+     "location": "Ponte da Pedra, Maia, Portugal",
+     "description":
+        "Continente Bom dia Ponte da Pedra",
+     "date": "Apr 2018",
+     "icon": "work"
+    },
+    {
+      "id": 5,
+     "title": "Project Management Technician ",
+     "location": "Gaia | Maia , Portugal",
+     "description":
+        "Serviços Partilhados - Sonae MC, Project Management, design and develop frontend  (javascript, html, razor, etc) and backend solutions in (dotnet).",
+     "date": "Mai 2018",
+     "icon": "work"
+    },
+    {
+      "id": 6,
+      "title": "Project Management Technician ",
+     "location": "Gaia, Portugal",
+     "description":
+        "1st project - Credit Assignments",
+     "date": "Sep 2018",
+     "icon": "work"
+    },
+    {
+      "id": 7,
+      "title": "Project Management Technician ",
+     "location": "Gaia, Portugal",
+     "description":
+        "2nd project - Pledges",
+     "date": "fev 2019",
+     "icon": "work"
+    },
+    {
+      "id": 8,
+      "title": "Project Management Technician ",
+     "location": "Gaia, Portugal",
+     "description":
+        "3rd project - Return Documents",
+     "date": "Sep 2020",
+     "icon": "work"
+    },
+    {
+      "id": 9,
+      "title": "Project Management Technician ",
+     "location": "Maia, Portugal",
+     "description":
+        "4th project - Direct Debits Revenue",
+     "date": "Jan 2021",
+     "icon": "work"
+    },
+    {
+      "id": 10,
+      "title": "Project Management Technician ",
+     "location": "Maia, Portugal",
+     "description":
+        "5th project - Billing Orders",
+     "date": "Ago 2021",
+     "icon": "work"
+    },
+    {
+      "id": 11,
+      "title": "Project Management Technician ",
+     "location": "Maia, Portugal",
+     "description":
+        "6th project - Management Access",
+     "date": "Sep 2021",
+     "icon": "work"
+    },
+    {
+      "id": 12,
+     "title": "Computer Engineer",
+     "location": "Porto, Portugal",
+     "description":
+        "Instituto Superior de Engenharia do Porto, Degree Concluded",
+     "date": "6 Oct 2021",
+     "icon": "school"
+    },
+    {
+      "id": 13,
+     "title": "http://HelderPereira.dev",
+     "location": "Porto, Portugal",
+     "description":
+        "HelderPereira.dev deveploped in React",
+     "date": "Oct 2021",
+     "icon": "work"
+    }
+  ]

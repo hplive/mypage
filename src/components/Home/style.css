@@ -73,7 +73,7 @@
   
   .home .person img {
     width: 80%;
-    border-radius: 10px;
+    border-radius: 50%;
      /* This section calls the slideInFromLeft animation we defined above */
     animation: 1s ease-out 0s 1 slideInFromTop;
     padding: 30px;

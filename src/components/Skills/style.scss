@@ -11,14 +11,14 @@
   }
   
   .content {
-    display: grid;
+    *display: grid;
     font-size: 24px;
     grid-template-columns: 1fr;
   }
 
   .content span{
     min-height: 1em;
-    font-size: 70px;
+    font-size: auto;
     white-space:nowrap;
   }
   
@@ -36,13 +36,45 @@
     margin: 0;
     margin-bottom: 10px;
   }
+
+  $charNum: 10; 
+
+  .row {
+    animation-duration: randomGen(300/$charNum/15)+s steps(300/$charNum) infinite;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+
+  #pause:checked ~ div div {
+    animation-play-state: paused;
+  }
+
+  @keyframes randomGen {
+    100% { transform: translateX(-300 / $charNum * 100%); }
+  }
   
   @media (min-width: 800px) {
     .content {
+      display: grid;
+      font-size: 24px;
       grid-template-columns: 1fr;
     }
 
     .content span{
+      min-height: 1em;
+      font-size: 70px;
       white-space:nowrap;
     }
   }
+

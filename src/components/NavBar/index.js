@@ -31,6 +31,7 @@ const NavBar = () => {
   return (
     <nav className="navbar">
       <div className="nav-wrapper">
+ 
         <div className="logo">
           <Link to="/">
             <img
@@ -87,11 +88,11 @@ const NavBar = () => {
             </li>
             <li>
               <Link
-                to="/works"
+                to="/timeline"
                 onClick={handleClose}
-                style={{ color: location.pathname === "/works" && "#4071f4" }}
+                style={{ color: location.pathname === "/timeline" && "#4071f4" }}
               >
-                Works
+                Timeline
               </Link>
             </li>
             <li>

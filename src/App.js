@@ -6,7 +6,7 @@ import Footer from './components/Footer/';
 import About  from './components/About';
 import NavBar from './components/NavBar';
 import Skills from './components/Skills';
-import Works from './components/Works';
+import Timeline from './components/Timeline';
 import Contact from './components/Contact';
 const App=()=> {
   return (
@@ -16,7 +16,7 @@ const App=()=> {
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/about" component={About} />
-          <Route exact path="/works" component={Works} />
+          <Route exact path="/timeline" component={Timeline} />
           <Route exact path="/skills" component={Skills} />
           <Route exact path="/contact" component={Contact} />
         </Switch>

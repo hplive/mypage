@@ -22,9 +22,9 @@ const RenderIcon = (item) => {
 }
 
 const RenderCard = (elevation) => {
-  return <div class="cardFeature column">
-    <span key={elevation.id} className="text-center card" >
-      <div class="containerCard"> {RenderIcon(elevation)} {elevation.id}</div>
+  return <div className="cardFeature column" key={elevation.id}>
+    <span  className="text-center card" >
+      <div className="containerCard"> {RenderIcon(elevation)} {elevation.id}</div>
     </span>
   </div>
 }
