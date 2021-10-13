@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
-import 'react-vertical-timeline-component/style.min.css';
+// import 'react-vertical-timeline-component/style.min.css';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import * as Solid from '@fortawesome/fontawesome-free-solid'
 import { ReactComponent as WorkIcon } from "./work.svg"
@@ -40,9 +40,8 @@ const Works = () => {
               <p id="description">{element.description}</p>
               {showButton && (
                 <a
-                  className={`button ${
-                    isWorkIcon ? "workButton" : "schoolButton"
-                  }
+                  className={`button ${isWorkIcon ? "workButton" : "schoolButton"
+                    }
 `}
                   href="/"
                 >
