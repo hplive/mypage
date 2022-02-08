@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
-import Icon from '@mdi/react'
-import { mdiPhone, mdiEmail, mdiGoogleMaps  } from '@mdi/js'
+// import Icon from '@mdi/react'
+// import { mdiPhone, mdiEmail, mdiGoogleMaps  } from '@mdi/js'
 
 const Contact = () => {
   return (

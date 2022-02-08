@@ -11,10 +11,10 @@ const Home = () => {
                 <h1 className="name">
                     <p><FontAwesomeIcon icon={Solid.faTerminal} /> Helder Pereira</p>
                 </h1>
-               {/* <h1 className="name">
+               <h1 className="name">
                     <p><FontAwesomeIcon icon={Solid.faLaptop} /> Software Developer</p>
                 </h1>
-                 <h1 className="name">
+                 {/* <h1 className="name">
                     <p><FontAwesomeIcon icon={Solid.faUniversity} /> Computer Engineer</p>
                 </h1> */}
                 <h1 className="name">

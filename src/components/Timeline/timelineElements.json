@@ -52,14 +52,5 @@
         "Instituto Superior de Engenharia do Porto, Degree Concluded",
      "date": "6 Oct 2021",
      "icon": "school"
-    },
-    {
-      "id": 7,
-     "title": "http://HelderPereira.dev",
-     "location": "Porto, Portugal",
-     "description":
-        "HelderPereira.dev deveploped in React",
-     "date": "Oct 2021",
-     "icon": "work"
     }
   ]

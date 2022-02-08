@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useState, useEffect, Text } from "react";
 import { Link, useLocation } from "react-router-dom";
 import "./style.css";
 
@@ -33,7 +33,7 @@ const NavBar = () => {
       <div className="nav-wrapper">
  
         <div className="logo">
-          <Link to="/">
+          <Link to="/">          
             <img
               src={`${process.env.PUBLIC_URL}/logo.png`}
               alt="brand"

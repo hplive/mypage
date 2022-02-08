@@ -1,5 +1,5 @@
 .card{
-    background-color: #0F2D5B;
+    background-color: #000000;
     margin: 0px; padding: 5px;
     border-radius: 5px;
 }
@@ -19,6 +19,7 @@
   /* Add some padding inside the card container */
   .containerCard {
     padding: 2px 16px;
+    color: #000000;
   }
 
   .row {
@@ -37,7 +38,7 @@
 
   @media (min-width: 800px) {
     .card{
-        background-color: #0F2D5B;
+        background-color: #ffffff;
         margin: 10px; padding: 0px;
         border-radius: 5px;
     }
